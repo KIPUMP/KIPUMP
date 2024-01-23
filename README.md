@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👯 Algorithm
+<div align=center>
+
+  ### 👯 Algorithm Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlrlqja2010)](https://solved.ac/chlrlqja2010)<br/>
+  
+</div>
 
