@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIPUMP&langs_count=8)](https://github.com/KIPUMP/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlrlqja2010)](https://solved.ac/chlrlqja2010)<br/>
-\
+
