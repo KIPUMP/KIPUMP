@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <br>
 </div>
-<div align=center><h1> 👯 Algorithm Tier 👯 </h1></div>
+<div align=center><h1> 👯 Baekjoon stat 👯 </h1></div>
 
 <div align=center>
   
