@@ -16,14 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-  ### 👯 Algorithm Tier
+  ### 👯 Algorithm Tier 👯
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlrlqja2010)](https://solved.ac/chlrlqja2010)<br/>
   
 </div>
-<div align=center>
-  
-  ### ⚡ My parameter
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIPUMP&show_icons=true&theme=radical)
-  
-</div>
+
 
