@@ -52,12 +52,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <br>
 </div>
-<div align=center><h1> 👯 Baekjoon stat 👯 </h1></div>
 
-<div align=center>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlrlqja2010)](https://solved.ac/chlrlqja2010)<br/>
-  
-</div>
 
 
