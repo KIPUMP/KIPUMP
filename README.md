@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <div align=center><h3> ❤ What I interesting ❤ </h3></div>
 
 - **Running**
-  하프 마라톤 출전 경험 및 일주일에 1번 이상은 러닝크루(6km) 활동
+  <p>하프 마라톤 출전 경험 및 일주일에 1번 이상은 러닝크루(6km) 활동</p>
 - **Producing music**
-  Ableton Live Suite v11.3.3으로 음악 작곡 경험
+  <p>Ableton Live Suite v11.3.3으로 음악 작곡 경험</p>
 - **Searching Fashion trends**
-  뽀빠이 매거진, 무신사 매거진을 정기적으로 확인하며 패션 흐름 및 동향 확인
-- Traveling new world
-  나중에 미국 자전거 일주가 버킷리스트입니다.
+  <p>정기적으로 패션 흐름 및 동향 확인</p>
+- **Traveling new world**
+  <p>나중에 세계 여행이 버킷리스트입니다.</p>
 
 <div align=center><h3> 👯 How I Work! 👯 </h3></div>
 
