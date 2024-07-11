@@ -1,4 +1,4 @@
-![Fn9A4jerbuggM6wTrtN0ItBh3M6BHA6UM5feDn1yKlm33nwS-4MgzN6Dn_QPiM6EGsdbs9jd7Lw9OtqENkggtQ](https://github.com/KIPUMP/KIPUMP/assets/86760876/e6b6eae9-4dc4-4369-9642-b30b5fbafc49)
+<center>![Fn9A4jerbuggM6wTrtN0ItBh3M6BHA6UM5feDn1yKlm33nwS-4MgzN6Dn_QPiM6EGsdbs9jd7Lw9OtqENkggtQ](https://github.com/KIPUMP/KIPUMP/assets/86760876/e6b6eae9-4dc4-4369-9642-b30b5fbafc49)</center>
 
 
 <!--
