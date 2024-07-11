@@ -17,25 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h3> ❤ What I interesting ❤ </h3></div>
-
-- **Running**
-  <p>하프 마라톤 출전 경험 및 일주일에 1번 이상은 러닝크루(6km) 활동</p>
-- **Producing music**
-  <p>Ableton Live Suite v11.3.3으로 음악 작곡 경험</p>
-- **Searching Fashion trends**
-  <p>정기적으로 패션 흐름 및 동향 확인</p>
-- **Traveling new world**
-  <p>나중에 세계 여행이 버킷리스트입니다.</p>
-
-<div align=center><h3> 👯 How I Work! 👯 </h3></div>
-
-- 새로운 분야에 뛰어드는 것을 즐기며 **빠르게 실행**하고 **도전**합니다.
-- 목표도 중요하지만 그 **과정에서 재미를 찾는 편**입니다.
-- 데드라인을 정하고 **시간을 효율적으로 사용**하기 위해서 노력합니다.
-- **팀에 긍정적인 영향력**을 주는 사람입니다.
-
-
 <div align=center><h3>📚 STACKS 📚 </h3></div>
 
 <div align=center> 
@@ -75,3 +56,20 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<div align=center><h3> ❤ What I interesting ❤ </h3></div>
+
+- **Running**
+  <p>하프 마라톤 출전 경험 및 일주일에 1번 이상은 러닝크루(6km) 활동</p>
+- **Producing music**
+  <p>Ableton Live Suite v11.3.3으로 음악 작곡 경험</p>
+- **Searching Fashion trends**
+  <p>정기적으로 패션 흐름 및 동향 확인</p>
+- **Traveling new world**
+  <p>나중에 세계 여행이 버킷리스트입니다.</p>
+
+<div align=center><h3> 👯 How I Work! 👯 </h3></div>
+
+- 새로운 분야에 뛰어드는 것을 즐기며 **빠르게 실행**하고 **도전**합니다.
+- 목표도 중요하지만 그 **과정에서 재미를 찾는 편**입니다.
+- 데드라인을 정하고 **시간을 효율적으로 사용**하기 위해서 노력합니다.
+- **팀에 긍정적인 영향력**을 주는 사람입니다.
