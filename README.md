@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1> ❤ What I interesting ❤ </h1></div>
 
-- running 
-- producing music
-- fashion trends
+<div align=center><h3> ❤ What I interesting ❤ </h3></div>
 
-<div align=center><h1> 👯 How I Work! 👯 </h1></div>
+- Running 
+- Producing music
+- searching Fashion trends
+- Traveling new world
+
+<div align=center><h3> 👯 How I Work! 👯 </h3></div>
 
 - 새로운 분야에 뛰어드는 것을 즐기며 **빠르게 실행**하고 **도전**합니다.
 - 목표도 중요하지만 그 **과정에서 재미를 찾는 편**입니다.
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 - **팀에 긍정적인 영향력**을 주는 사람입니다.
 
 
-<div align=center><h1>📚 STACKS 📚 </h1></div>
+<div align=center><h3>📚 STACKS 📚 </h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
