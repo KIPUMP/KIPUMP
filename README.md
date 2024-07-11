@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=center><h3>📚 STACKS 📚 </h3></div>
 ---
+<div align=center><h3>📚 STACKS 📚 </h3></div>
+
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </div>
 ---
 <div align=center><h3> ❤ What I interesting ❤ </h3></div>
----
+
 - **Running**
   <p>하프 마라톤 출전 경험 및 일주일에 1번 이상은 러닝크루(6km) 활동</p>
 - **Producing music**
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <p>나중에 세계 여행이 버킷리스트입니다.</p>
 ---
 <div align=center><h3> 👯 How I Work! 👯 </h3></div>
----
+
 - 새로운 분야에 뛰어드는 것을 즐기며 **빠르게 실행**하고 **도전**합니다.
 - 목표도 중요하지만 그 **과정에서 재미를 찾는 편**입니다.
 - 데드라인을 정하고 **시간을 효율적으로 사용**하기 위해서 노력합니다.
