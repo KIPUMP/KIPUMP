@@ -1,6 +1,6 @@
 
 
-<img src = "https://github.com/KIPUMP/KIPUMP/assets/86760876/e6b6eae9-4dc4-4369-9642-b30b5fbafc49" width = "100%" height = "50%">
+<img src = "https://github.com/KIPUMP/KIPUMP/assets/86760876/e6b6eae9-4dc4-4369-9642-b30b5fbafc49" width = "100%" height = "100px">
 
 <!--
 **KIPUMP/KIPUMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
