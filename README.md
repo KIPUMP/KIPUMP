@@ -57,6 +57,4 @@ Here are some ideas to get you started:
 </div>
 
 - - -
-
-<h3 align="center">💡 My Git Stats 💡</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
