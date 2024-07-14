@@ -61,5 +61,4 @@ Here are some ideas to get you started:
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIPUMP)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
