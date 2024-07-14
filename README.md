@@ -58,6 +58,4 @@ Here are some ideas to get you started:
 
 - - -
 
-<div align = "center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIPUMP&show_icons=true&theme=tokyonight)
-</div>
+<div align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIPUMP&show_icons=true&theme=tokyonight)</div>
