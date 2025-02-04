@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<div align=center><h3>📚 STACKS 📚 </h3></div>
+<!--<div align=center><h3>📚 STACKS 📚 </h3></div>-->
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
