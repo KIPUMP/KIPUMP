@@ -1,5 +1,8 @@
+<div align="center">
 
-### 📚 Tech Stack 📚  
+  ### 📚 Tech Stack 📚  
+
+</div>
 
 #### 🖥️ Language
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1740093485317?alt=media&token=d1875a2f-c37a-4c93-b7f3-2fe2bec10e61)](https://github.com/msdio/stackticon)
@@ -17,10 +20,12 @@
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1740093537570?alt=media&token=ccf7c772-f26b-4ae3-b953-8fa1bf59c24c)](https://github.com/msdio/stackticon)
 
 ---
-
-### 📊 GitHub Stats 📊  
 <div align="center">
+
+  ### 📊 GitHub Stats 📊  
+
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIPUMP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
