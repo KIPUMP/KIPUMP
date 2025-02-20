@@ -1,9 +1,5 @@
 
-
-<img src = "https://github.com/KIPUMP/KIPUMP/assets/86760876/e6b6eae9-4dc4-4369-9642-b30b5fbafc49" width = "100%" height = "500px">
-
 ### 📚 Tech Stack 📚  
-<div align="center">
 
 #### 🖥️ Language
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1740093485317?alt=media&token=d1875a2f-c37a-4c93-b7f3-2fe2bec10e61)](https://github.com/msdio/stackticon)
@@ -19,8 +15,6 @@
 
 #### 🔧 Etc
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1740093537570?alt=media&token=ccf7c772-f26b-4ae3-b953-8fa1bf59c24c)](https://github.com/msdio/stackticon)
-
-</div>
 
 ---
 
